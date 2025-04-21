@@ -15,3 +15,12 @@ Each case is stored in its own markdown file under `/logs`.
 ---
 
 ## Folder Structure
+
+COMING SOON
+
+## About Me
+
+Hi, I'm Zakariya — a self-taught cloud support learner based in Calgary. I'm working toward AWS Cloud Practitioner certification and building hands-on experience with cloud infrastructure, troubleshooting, and user support. This repo is my personal logbook and proof of what I’ve done so far.
+
+[LinkedIn]()  
+[Resume]()
